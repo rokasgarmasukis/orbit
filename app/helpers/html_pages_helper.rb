@@ -1,2 +1,2 @@
-module HtmlPageHelper
+module HtmlPagesHelper
 end
